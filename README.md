@@ -3,8 +3,6 @@ Meu nome é Luiz Felipe, sou graduando em Estatística pela Universidade Estadua
 
 🚩 Nasci em São Paulo (SP) e atualmente moro em Campinas;
 
-🧑‍💼 Trabalhei na Estat Júnior (empresa júnior de estatística da Unicamp) entre 2021 e 2023. Em 2021 e entre nov/22 e maio/23 trabalhei como assessor e, em 2022, atuei como Diretor de Inteligência de Mercado. Durante esses 11 meses, fui responsável pela parte de Marketing e de Vendas da empresa e ajudei a empresa a conquistar mais de 10 reconhecimentos em 2022 e apresentar 2 cases de sucesso;
-
 🌳 De abril/23 a abril/24, faço Iniciação Científica na área de Estatística aplicada ao mercado financeiro com bolsa FAPESP. O foco do projeto é estudar a teoria de ondaletas, em nível elementar, e suas
 principais metodologias estatísticas, principalmente em seus aspectos de programação computacional e em suas especificidades na aplicação em anáalise estatística de dados financeiros. 
 
