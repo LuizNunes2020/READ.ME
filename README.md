@@ -3,7 +3,7 @@ Meu nome é Luiz Felipe, sou graduando em Estatística pela Universidade Estadua
 
 🚩 Nasci em São Paulo (SP) e atualmente moro em Campinas;
 
-🌳 De abril/23 a abril/24, faço Iniciação Científica na área de Estatística aplicada ao mercado financeiro com bolsa FAPESP. O foco do projeto é estudar a teoria de ondaletas, em nível elementar, e suas
+🌳 De abril/23 a abril/24, fiz Iniciação Científica na área de Estatística aplicada ao mercado financeiro com bolsa FAPESP. O foco do projeto é estudar a teoria de ondaletas, em nível elementar, e suas
 principais metodologias estatísticas, principalmente em seus aspectos de programação computacional e em suas especificidades na aplicação em anáalise estatística de dados financeiros. 
 
 📊 Me interesso pela área de finanças e dados em geral, tenho um bom desempenho acadêmico e gosto muito de programação. Costumo programar em R (quase sempre), mas também tenho experiência com Python. Além disso, tenho Excel avançado;
