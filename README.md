@@ -1,5 +1,5 @@
 Oi 👋
-Meu nome é Luiz Felipe, sou graduando em Estatística pela Universidade Estadual de Campinas (Unicamp) 📈. Ingressei no curso em 2022 e a previsão de conclusão do curso é dezembro de 2025 e, atualmente, estou em busca de estágio. Sobre mim:
+Meu nome é Luiz Felipe, sou graduando em Estatística pela Universidade Estadual de Campinas (Unicamp) 📈. Ingressei no curso em 2022 e a previsão de conclusão do curso é julho de 2026 e, atualmente, estou em busca de estágio. Sobre mim:
 
 🚩 Nasci em São Paulo (SP) e atualmente moro em Campinas;
 
